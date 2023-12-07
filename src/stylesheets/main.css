@@ -14,3 +14,8 @@ div.footer {
   background-size: cover;
 }
 
+.video {
+  width: calc(100% - 560px);
+  margin: auto;
+  height: 360px;
+}

@@ -6,7 +6,6 @@ let vidArray = ['<iframe width="560" height="315" src="https://www.youtube.com/e
 
 function displayVideoA() {
   document.querySelector(".video").innerHTML = vidArray[0]
-  document.querySelector(".video").classList.remove("d-none")
 }
 
 function displayVideoB() {
